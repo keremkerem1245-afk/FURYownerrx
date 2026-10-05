@@ -20,7 +20,7 @@ return {
      ["FURYownerrxVIP"] = {
         type = "FURYownerrx",
         expiry = "2026-10-10",
-        valid = true,
+        valid = false,
         max_devices = 200,
         SLOT = "6"
     },
