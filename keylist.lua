@@ -6,15 +6,15 @@ return {
      ["FURYownerrxVIP"] = {
         type = "FURYownerrx",
         expiry = "2026-10-10",
-        valid = false,
+        valid = true,
         max_devices = 200,
-        SLOT = "3"
+        SLOT = "1"
     },
     ["BLOCKED"] = {
         type = "BLOCKED",
         expiry = "2026-12-31",
         valid = false,
         max_devices = 1,
-        SLOT = "5"
+        SLOT = "2"
     }
 }
