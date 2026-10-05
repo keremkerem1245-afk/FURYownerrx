@@ -11,11 +11,18 @@ return {
         SLOT = "1"
     },
     ["DEMO123"] = {
-        type = "DEMO",
+        type = "DEMO123",
         expiry = "2026-08-01",
         valid = true,
         max_devices = 5,
         SLOT = "2"
+    },
+     ["FURYownerrxVIP"] = {
+        type = "FURYownerrx",
+        expiry = "2026-10-10",
+        valid = true,
+        max_devices = 200,
+        SLOT = "6"
     },
     ["SINGLE_USER"] = {
         type = "VIP",
