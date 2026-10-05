@@ -22,20 +22,20 @@ return {
         expiry = "2026-10-10",
         valid = false,
         max_devices = 200,
-        SLOT = "6"
+        SLOT = "3"
     },
     ["SINGLE_USER"] = {
         type = "VIP",
         expiry = "2025-01-01",
         valid = true,
         max_devices = 1,
-        SLOT = "3"
+        SLOT = "4"
     },
     ["BLOCKED"] = {
         type = "BLOCKED",
         expiry = "2026-12-31",
         valid = false,
         max_devices = 1,
-        SLOT = "0"
+        SLOT = "5"
     }
 }
